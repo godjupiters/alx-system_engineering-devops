@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#A simple script that makes localhost read port 98
+
+nc -l localhost 98
